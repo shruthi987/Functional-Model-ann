@@ -1,5 +1,10 @@
 # Functional-Model-ann
-here we are separating each of them and passing them as a parameter
+ANN----Artificial Neural Networks
+we use keras framework to build ANN model
+3 types of ANN-----1)Sequential Model
+                   2)Functional Model
+                   3)Model Subclassing
+Functional ---here we are separating each of them and passing them as a parameter
 advantages:
           >can make any changes in any layer
           >can have 2 predictions
